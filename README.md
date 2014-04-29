@@ -1,7 +1,7 @@
 Logan-Spicher
 =============
-mkdir ~/Hello-World
+mkdir ~/Logan Spicher
 
-cd ~/Hello-World
+cd ~/Logan Spicher
 
 git init
